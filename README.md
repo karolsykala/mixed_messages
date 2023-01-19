@@ -1,1 +1,3 @@
-# mixed_messages
+# Mixed messages ~#
+
+~Generate different message each time user runs a script~
